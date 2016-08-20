@@ -32,6 +32,9 @@ font-awesome
 Bootstrap
 moment-calendar.css
 
+![alt tag](https://raw.githubusercontent.com/emehdy/moment-calendar/master/demo/demo.jpg)
+
+
 check demo/index.html file 
 
 
