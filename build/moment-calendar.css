@@ -16,7 +16,9 @@ author emehdy@gmail.com
     -ms-user-select: none;
     user-select: none;
 }
-
+.moment-calendar[readonly] {
+    background-color: #eee;
+}
 .date-container {
     padding: 0px 40px;   
 }
