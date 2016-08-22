@@ -37,4 +37,32 @@ moment-calendar.css
 
 check demo/index.html file 
 
+### General output format config
 
+```js
+Hijri.picker.options={
+	format:
+	{
+		day:['dddd','iDD'],
+		month:['iMMMM'],
+		year:['iYYYY'],
+		input:'YYYYMMDD',
+	}
+}
+```
+
+### HTML usage
+####attr: data-input
+is jquery selector to point the target of this picker
+####attr: data-input-format
+is a moment format to override Hijri.picker.options.format.input when read and write from the input
+####attr: data-readonly
+to show a readonly date component
+
+```HTML
+
+<div class="col-sm-6">  
+<input type="hidden" id="dateinput3"  value="1400-09-23">
+<span class="moment-calendar" data-readonly='readonly' data-input='#dateinput3' data-input-format='iYYYY-iMM-iDD'  ></span>
+</div>
+```
