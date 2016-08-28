@@ -3,7 +3,7 @@
 
 supports Hijri Date based on [moment-hijri](https://github.com/xsoh/moment-hijri) library.
 A Hijri (Based on Umm al-Qura calculations) calendar system plugin for moment.js.
-checkout the Boxed version [moment-calendar](https://github.com/emehdy/moment-calendar)
+checkout the Boxed version  on [moment-calendar](https://github.com/emehdy/moment-calendar) .
 
 About
 -----
