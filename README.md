@@ -1,8 +1,9 @@
-# moment-calendar
+# moment-calendar-nav
 
 
 supports Hijri Date based on [moment-hijri](https://github.com/xsoh/moment-hijri) library.
 A Hijri (Based on Umm al-Qura calculations) calendar system plugin for moment.js.
+checkout the Boxed version [moment-calendar](https://github.com/emehdy/moment-calendar)
 
 About
 -----
@@ -32,7 +33,7 @@ font-awesome
 Bootstrap
 moment-calendar.css
 
-![alt tag](https://raw.githubusercontent.com/emehdy/moment-calendar/master/demo/demo.jpg)
+![alt tag](https://raw.githubusercontent.com/emehdy/moment-calendar-nav/master/demo/demo.jpg)
 
 
 check demo/index.html file 
